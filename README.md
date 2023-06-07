@@ -58,9 +58,7 @@ The company wants to understand the driving factors (or driver variables) behind
         <b>Driving Factors for Loan Defaults: </b> <br><br>
         <b>Continuous Variable: </b>
         <ol>
-            <li>Loan Amount:  Loan amount higher than 10000$ has more default percentage</li>
-            <li>FUNDED_AMOUNT : Funded amount greater than 15000 dollors have higher default rate</li>
-            <li>FUNDED_AMOUNT_INVESTED : Funded amount invested greater than 15000 dollors have higher default rate</li>
+		<li>Loan Amount:  Loan amount higher than 10000$ has more default percentage</li>
             <li>Interest Rate:  Higher interest rates show higher loan defaults.<br>
             <li>Annual Income: Lower annual incomes(up to 10K) shows higher loan defaults (up to 25%)</li>
 			<li>Installments:  Higher loan installments (between 600$ to 1200$) cause loan defaults.</li>
