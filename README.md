@@ -55,7 +55,7 @@ The company wants to understand the driving factors (or driver variables) behind
 ## Conclusions
 <div class="alert alert-block alert-danger">
     <span style='font-family:Georgia'>
-        <b>Driving Factors for Loan Defaults: </b> <br><br>
+        <b>Driving Factors for Loan Defaults : </b> <br><br>
         <b>Continuous Variable: </b>
         <ol>
 		<li>Loan Amount:  Loan amount higher than 10000$ has more default percentage</li>
@@ -64,7 +64,7 @@ The company wants to understand the driving factors (or driver variables) behind
 			<li>Installments:  Higher loan installments (between 600$ to 1200$) cause loan defaults.</li>
             <li>DTI: DTI ratio higher than 10 witnesses more loan defaults (14-16%).</li>
         </ol>
-        <b>Categorical Variable: </b>
+        <b>Categorical Variable : </b>
         <ol>
             <li>Term: 60 months have more loan defaults in comparison to 36 month term.</li>
 			<li>Purpose: Small business owners are more likely to commit frauds.</li>
@@ -78,7 +78,7 @@ The company wants to understand the driving factors (or driver variables) behind
 
 <div class="alert alert-block alert-success">
     <span style='font-family:Georgia'>
-        <b>Recommendations :</b> 
+        <b>Recommendations:</b> 
         <ul>
             <li>Lending Club should be cautious before approving any loans above 15000$</li>
             <li>If interest rate is higher, loan defaults are higher, consider approving loans at lower interest rates and low loan amounts.</li>
@@ -86,7 +86,7 @@ The company wants to understand the driving factors (or driver variables) behind
             <li>Small business owners and 60 month loan terms are risk areas, should minimise these applicants.</li>
             <li>Applicants with lower grade and subgrade(D2-G5) should not be considered for loan approvals.</li>
             <li>Verified borrowers are causing more credit loss, update customer verification process.</li>
-			<li>Loan Applications of customers having grades in A1-C3 are less likely to be defaulted.
+	    <li>Loan Applications of customers having grades in A1-C3 are less likely to be defaulted.
         </ul>
     </span>    
 </div>
@@ -103,7 +103,6 @@ The company wants to understand the driving factors (or driver variables) behind
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - https://seaborn.pydata.org/
 - https://plotly.com/
 - https://pandas.pydata.org/
